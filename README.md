@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
-<h3 align="center">I have completed the course "Front-End Dev" at TeachMeSkills</h3>
 
 
 # 📊GitHub Stats :
